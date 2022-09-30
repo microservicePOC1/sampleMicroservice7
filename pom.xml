@@ -87,7 +87,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>sampleService6</finalName>
+		<finalName>sampleService7</finalName>
 	</build>
 
 </project>
